@@ -1,0 +1,6 @@
+{
+  "name": "RankPulse - AI SEO Audit & Growth Engine",
+  "description": "Comprehensive SaaS SEO auditor. Post any website URL to receive real-time technical SEO audits, on-page scoring, and actionable AI recommendations to rank higher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
